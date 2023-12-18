@@ -8,7 +8,7 @@ I am a autistic teenager who has a passion in computer science, games, and mathe
 - I am critical of the school to college to work pipeline, and attempt to find ways around it, to be more independent within life.
 
 ## Projects
-- https://modragger.vercel.app/
-- https://altboxels.qazox.dev/
-- https://abc.qazox.dev/
-- https://potatoplusplus.com/
+- https://altboxels.qazox.dev/ - Pixel sandbox game
+- https://modragger.vercel.app/ - Collabarative art social network
+- https://abc.qazox.dev/ - Community and save for Altboxels
+- https://potatoplusplus.com/ - Idle game I made with my brother
