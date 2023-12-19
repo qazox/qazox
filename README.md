@@ -1,6 +1,8 @@
 # qazoxdev
 I am a autistic teenager who has a passion in computer science, games, and mathematics. Most of my experience is self-taught, beginning from when my friends encouraged me to learn programming the COVID lockdown. They did not know much programming at that time, so I ended up progressing mostly on my own, at a faster rate than they did.
 
+Yes, I was formerly a user of Scratch. I've done most of my programming work in other languages for quite a while, however.
+
 ## Projects
 - https://altboxels.qazox.dev/ - Pixel sandbox game
 - https://abc.qazox.dev/ - Community and save for Altboxels
