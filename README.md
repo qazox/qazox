@@ -8,7 +8,7 @@ Yes, I was formerly a user of Scratch. I've done most of my programming work in 
 ## Highlighted Projects
 - https://altboxels.qazox.dev/ - Pixel sandbox game
 - https://tree.qazox.dev/ - Faster, less buggy, metadata-rich remix tree viewer for https://scratch.mit.edu
-- https://potatoplusplus.com/ - Idle game I made with my brother
+- https://ppp.qazox.dev/ - Idle game I made with my brother
 - https://abc.qazox.dev/ - Community and save for Altboxels
 - https://znome.qazox.dev/ - Particle dodging engine
 
